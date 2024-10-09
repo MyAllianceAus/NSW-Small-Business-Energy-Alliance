@@ -7,7 +7,7 @@ title: My Alliance NSW
 ---
 ### Welcome to NSW Small Business Energy Alliance. Together we hold a bigger voice!!
 
-![NSW Small Business Energy Alliance. Uniting for Fair Energy Prices & Success. Advocate Educate Collaborate.](/assets/banner.svg)
+![NSW Small Business Energy Alliance. Uniting for Fair Energy Prices & Success. Advocate Educate Collaborate.](/assets/Banner.jpg)
 
 ⚡ Not So Fun fact:
 > Did you know less than 1% of small businesses within emedded networks enjoy a discount of greater than 2% where on market customers can enjoy rates in excess of up to 10 times that much.
