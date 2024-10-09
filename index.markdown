@@ -16,7 +16,7 @@
 
 <p>So let me say to those small business tenants in embedded networks YOU ARE THE SOLE REASON that the NSW Small Business Energy Alliance was born, because you deserve better and you have my word that each and every small business including those embedded network tenants we deal with will get nothing less than 100% comitment from myself and from my business to bring to you a FAIR GO a fair environment where not only are you ADVOCATED for but we will work tirelessly to bring you EDUCATION, to learn how to effectively navigate the utilities market.</p>
 <p>Through additional free and subscription based paid services bring to you the rates, tools,knowledge,advocacy and support to achieve the outccomes you deserve</p>
-<p>Sincerely,
-Andrew Smith
-CEO & Founder 
-MY Alliance</p>
+<p>Sincerely,</p>
+<p>Andrew Smith</p>
+<p>CEO & Founder</p> 
+<p>MY Alliance</p>
