@@ -1,8 +1,8 @@
-# NSW-Small-Business-Energy-Alliance
-Welcome to NSW Small Business Energy Alliance. Together we hold a bigger voice !! 
-- About Us: 
-      we exist for the sole purpose of supporting small business because they deserve the same voice as thier large market counterparts and the mums and dads of this country to demand a fairer deal
-      for energy pricing. 
+# <p align="center"><b>NSW Small Business Energy Alliance
+<p align="center"><b>Welcome to NSW Small Business Energy Alliance. Together we hold a stronger voice !! </b></p>
+<b>   About Us: </b>
+<p>   we exist for the sole purpose of supporting small business because they deserve the same voice as thier large market counterparts and the mums and dads of this country to demand a fairer deal
+      for energy pricing. </p>
 
         NSW Small Business Energy Alliance
         is the first of a number of national campaign & subscription based alliances  deals designed to support you via exclusive rates available only to members.
