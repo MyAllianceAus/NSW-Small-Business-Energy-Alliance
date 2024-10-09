@@ -41,4 +41,4 @@ Welcome to MYALLIANCE.COM.AU
 - Did you know less than 1% of small businesses within emedded networks enjoy a discount of greater than 2% where on market customers can enjoy rates in excess of up to 10 times that much.
 
  
-            ADVOCATE                                    EDUCATE                                     COLABORATE
+                ADVOCATE                            EDUCATE                                 COLABORATE
