@@ -4,7 +4,7 @@ title: Join Us
 permalink: /join
 ---
 
-<p><b>Join My Alliance today:</b></p></br>
+<b>Join My Alliance today:</b></br>
  <b>Free Services:</b></br>
     * Receive frequent updates on our campaigns.</br>
     * Receive our monthly newsletter providing market updates and news on future campaigns.</br>
@@ -15,7 +15,6 @@ permalink: /join
 
         
 <p><b>Click Join Now to become a free member </b></p></br>
-
 
 
 
