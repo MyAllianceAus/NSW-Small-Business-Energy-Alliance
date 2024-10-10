@@ -12,6 +12,7 @@ permalink: /join
     <p> * Access our member only subscription plans loaded with big savings for our members.</p>
 <p>  </p>
 
+
         
 <p><b>Click Join Now to become a free member </b></p>
 
