@@ -18,21 +18,30 @@ permalink: /join
 
 
 
-<b><p>Paid Subscrption Services:</p></b></br>
-<p><b>Click here to view our plans which include:</b></br>
+<b><p>Paid Subscription Services:</p></b>
 
-</p>
-           * access to our campaigns for cheaper group rates.
-           * personally tailored one off rate review & offers.
-           * 1-off invoice validation reviews.
-           * ongoing bill validation services , ensuring your retailer continues to bill you appropriately.
-           * advocacy support when things with your retailer dont go as planned.
-           * Annual consumption on request and annual consumption reviews.
-           n request energy audits using cutting edge technology and reporting.
-            access to any upcoming member only benefits through our third party partners.
-           * Talk to us to design a tailored solution for your needs, email us at support@myalliance.com.au.
-  
 
+<b>Click here to view our plans which include:</b>
+
+
+   &nbsb;* access to our campaigns for cheaper group rates.  
+        
+   &nbsb;* personally tailored one off rate review & offers.  
+   
+   &nbsb;* 1-off invoice validation reviews.  
+        
+   &nbsb;* ongoing bill validation services , ensuring your retailer continues to bill you appropriately.  
+        
+   &nbsb;* advocacy support when things with your retailer dont go as planned.  
+     
+   &nbsb;* Annual consumption on request and annual consumption reviews.  
+   
+   &nbsb;* On request energy audits using cutting edge technology and reporting.  
+   
+   &nbsb;* access to any upcoming member only benefits through our third party partners.  
+   
+   &nbsb;* Talk to us to design a tailored solution for your needs, email us at support@myalliance.com.au.  
+   
 <b><p> Click to View our Subscription Plans to Access all Other paid member services & Benenfits </b></p>
 
 
