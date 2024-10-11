@@ -46,9 +46,10 @@ permalink: /join
    
    * access to any upcoming member only benefits through our third party partners.  
    
-   * Talk to us to design a tailored solution for your needs, email us at support@myalliance.com.au.  
-   
-<b><p> Click to View our Subscription Plans to Access all Other paid member services & Benenfits </b></p>
+   * Talk to us to design a tailored solution for your needs, email us at support@myalliance.com.au.
+\   
+<b>Click to View our Subscription Plans to Access all Other paid member services & Benenfits </b>
+
 
 
 
