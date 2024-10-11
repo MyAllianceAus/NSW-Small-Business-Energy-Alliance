@@ -15,7 +15,7 @@ permalink: /join
      
    * Receive our monthly newsletter providing market updates and news on future campaigns.  
      
-   * Help us grow our combined voice to help bolster bigger & bigger and better deals.  
+   * Help us grow our combined voice to help bolster bigger and better deals.  
      
    * Access our member only subscription plans loaded with big savings for our members.  
 <p>  </p>
