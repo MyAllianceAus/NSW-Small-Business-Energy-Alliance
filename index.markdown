@@ -26,4 +26,4 @@ Remember we are specifically here for you because we know and agree that as the 
 
 
 Combined you are the greatest energy consumers by volume in our nation and the hard work you put in goes a long way to keeping our energy retailers in business.
-<p>About Me<p></p>
+
