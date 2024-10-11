@@ -5,7 +5,7 @@ permalink: /join
 ---
 
 <b>Join My Alliance today:</b>  
-![NSW Small Business Energy Alliance. Uniting for Fair Energy Prices & Success. Advocate Educate Collaborate.](/assets/joinus.jpg)
+![NSW Small Business Energy Alliance. Uniting for Fair Energy Prices & Success. Advocate Educate Collaborate.](/assets/joinus.png)
 
  <b>Free Services:</b>  
  
