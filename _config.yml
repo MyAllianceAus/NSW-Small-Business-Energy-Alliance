@@ -26,7 +26,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 # github_username:  jekyll
-linkedin_username: NSW Small Business Energy Alliance # edit this!
+linkedin_username: https://www.linkedin.com/company/nsw-small-business-energy-alliance/ # edit this!
 header_pages:
  # the home page is hardcoded in _includes/header.html, no need to include it here
  - _pages/join.markdown
