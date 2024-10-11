@@ -5,7 +5,7 @@ permalink: /join
 ---
 
 <b>Join My Alliance today:</b>  
-(/assets/joinus.png)
+(/assets/joinus.jpeg)
 
  <b>Free Services:</b>  
  
