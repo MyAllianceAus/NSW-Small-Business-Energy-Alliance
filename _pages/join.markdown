@@ -11,22 +11,22 @@ permalink: /join
 
  <b>Free Services:</b>  
  
-   * Receive frequent updates on our campaigns.</br>
+   * Receive frequent updates on our campaigns.  
      
-   * Receive our monthly newsletter providing market updates and news on future campaigns.</br>
+   * Receive our monthly newsletter providing market updates and news on future campaigns.  
      
-   * Help us grow our combined voice to help bolster bigger & bigger and better deals.</br>
+   * Help us grow our combined voice to help bolster bigger & bigger and better deals.  
      
-   * Access our member only subscription plans loaded with big savings for our members.</br>
+   * Access our member only subscription plans loaded with big savings for our members.  
 <p>  </p>
 
 
         
-<p><b>Click Join Now to become a free member </b></p></br>
+<p><b>Click Join Now to become a free member </b></p>  
 
 
 
-<b><p>Paid Subscription Services:</p></b>
+<b>Paid Subscription Services:</b>
 
 
 <b>Click here to view our plans which include:</b>
@@ -49,7 +49,7 @@ permalink: /join
    * access to any upcoming member only benefits through our third party partners.  
    
    * Talk to us to design a tailored solution for your needs, email us at support@myalliance.com.au.
-\   
+
 <b>Click to View our Subscription Plans to Access all Other paid member services & Benenfits </b>
 
 
