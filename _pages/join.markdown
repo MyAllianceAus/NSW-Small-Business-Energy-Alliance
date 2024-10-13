@@ -21,15 +21,7 @@ permalink: /join
 <p>  </p>
 
 
-        
-<p><b>Click Join Now to become a free member </b></p>  
-
-
-
 <b>Paid Subscription Services:</b>
-
-
-<b>Click here to view our plans which include:</b>
 
 
    * access to our campaigns for cheaper group rates.  
