@@ -32,6 +32,9 @@ header_pages:
  - _pages/join.markdown
  - _pages/about.markdown
  - _pages/blog.markdown
+ - _pages/ADVOCATE.markdown
+ - _pages/EDUCATE.markdown
+ - _pages/COLLABORATE.markdown
 
 # Build settings
 plugins:
