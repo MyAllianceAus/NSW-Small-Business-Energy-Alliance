@@ -13,13 +13,13 @@ permalink: /Plans
 
 |    Basic Plan Inclusion                           |    One off Energy Offer          |<b>12 month subscription plan</b>| <b>24 month Subscription Plan</b> | <b>36 month Subscription Plan</b>|
 | :-----------------------------------------------  | :------------------------------: | :------------------------------: | :------------------------------:  | :------------------------------: |
-| One off Energy Discount offer & assisted transfer| :white_check_mark:                |                                  |                                   |                                  |                       
-| Tailored Energy Discounted offer &  transfer assistance|                             | :white_check_mark:               |:white_check_mark:                 |:white_check_mark:                |
+| One off Energy Discount offer & assisted transfer |:white_check_mark:                |                                  |                                   |                                  |                       
+| Tailored Energy Discounted offer &  transfer assistance|                             |:white_check_mark:                |:white_check_mark:                 |:white_check_mark:                |
 | Monthly Market News Letter                        |                                  |:white_check_mark:                |:white_check_mark:                 |:white_check_mark:                |
 | <b>INTRODUCTORY </b>discount for upfront payment of multi year subscription|         |                                  |:white_check_mark:                 |:white_check_mark:                |
 | *Annual payment option                            |                                  |                                  |:white_check_mark:                 |:white_check_mark:                |                          
 | Free quarterly Market rate review                 |                                  |                                  |:white_check_mark:                 |:white_check_mark:                |
-| Free [Bill Validation Services](https://myalliance.com.au/BV)for term of the contract||                                 |   :white_check_mark:              |:white_check_mark:                |
+| Free [Bill Validation Services](https://myalliance.com.au/BV)for term of the contract||                                 |:white_check_mark:                 |:white_check_mark:                |
 | 25% discount on future group deals                |                                  |                                  |                                   |:white_check_mark:                |                                            
 |**25% of the next renewal                          |                                  |                                  |                                   |:white_check_mark:                |  
 | *Discount applied to multi year for early payment |                                  | $250                             | $350 <br>(discount $50)           |$500<br> (discount $100)          |  
