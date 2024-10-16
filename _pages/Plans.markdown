@@ -18,7 +18,7 @@ permalink: /Plans
 | <b>INTRODUCTORY </b>discount for upfront payment of multi year subscription   |      |                                  |:white_check_mark:                 |:white_check_mark:                |
 | *Annual payment option                            |                                  |                                  |:white_check_mark:                 |:white_check_mark:                |                          
 | Free quarterly Market rate review                 |                                  |                                  |:white_check_mark:                 |:white_check_mark:                |
-| Free bill validation services for term of the contract |                             |                                  |   :white_check_mark:              |:white_check_mark:                |
+| Free [Bill Validation Services](https://myalliance.com.au/BV) for term of the contract |                             |                                  |   :white_check_mark:              |:white_check_mark:                |
 | 25% discount on future group deals                |                                  |                                  |                                   |:white_check_mark:                |                                            
 |**25% of the next renewal                          |                                  |                                  |                                   |:white_check_mark:                |  
 | *Discount applied to multi year for early payment |                                  | $250                             | $200   | $350 <br>(discount $50)  |$500<br> (discount $100)          |  
