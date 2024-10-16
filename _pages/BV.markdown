@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Bill Validation
-permalink: /Bill Validation
+title: BV
+permalink: /BV
 ---
 ---
 ### What is Bill Validation?
