@@ -1,6 +1,6 @@
 ---
+layout: Page
 title: Advocate
-layout: Pages
 permalink: /Advocate
 ---
 
