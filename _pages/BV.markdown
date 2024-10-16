@@ -1,7 +1,4 @@
----
-layout: page
-title: BV
-permalink: /BV
+
 ---
 
 ### What is Bill Validation?
