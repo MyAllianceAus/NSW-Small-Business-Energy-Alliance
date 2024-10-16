@@ -1,3 +1,8 @@
+---
+layout: page
+title: join
+permalink: /join
+---
 
 
 <b>Join My Alliance today:</b>  
