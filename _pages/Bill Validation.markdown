@@ -3,6 +3,8 @@ layout: page
 title: Bill Validation
 permalink: /Bill Validation
 ---
+![NSW Small Business Energy Alliance. Uniting for Fair Energy Prices & Success. Advocate Educate Collaborate.](/assets/BV Services.jpeg)  
+
 
 <b>What is Bill Validation?</b>  
 
