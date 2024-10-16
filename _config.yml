@@ -36,8 +36,6 @@ header_pages:
  - _pages/join.markdown
  - _pages/blog.markdown
  - _pages/about.markdown
- 
-
 
 # Build settings
 plugins:
