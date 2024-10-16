@@ -1,5 +1,5 @@
 ---
-layout: page
-title: blog
-Permalink: /blog
+title: Blog
+layout: blog
+permalink: /blog
 ---
