@@ -10,6 +10,7 @@ permalink: /Bill Validation
 
 
 
+
 Bill Validation involves NSW Small Business Energy Alliance receiving a copy of your bill at the same time you do. 
 We then run your invoice through our bill validation services to make sure you have been billed correctly by your retailer, some of the checks include:  
 
