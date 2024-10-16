@@ -23,6 +23,7 @@ permalink: /Plans
 | 25% discount on future group deals                |     |                             |                                   |:white_check_mark:                |                                            
 |**25% of the next renewal                          |      |                            |                                   |:white_check_mark:                |  
 |                                                   | $250                             | $200                              | $350                             |$450|  
+
 Contacts our local Sales team to arrange the subscription that suits you 
 
   *Discount is applied in the above table (annual subscription is normally $200 per annum.)
