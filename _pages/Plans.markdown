@@ -22,8 +22,8 @@ permalink: /Plans
 | Free bill validation services for term of the contract |                    |                                  |   :white_check_mark:              |:white_check_mark:                |
 | 25% discount on future group deals                |     |                             |                                   |:white_check_mark:                |                                            
 |**25% of the next renewal                          |      |                            |                                   |:white_check_mark:                |  
-| *Discount applied to multi year for early payment                                                  | $250                             | $200                              | $350                             |$450|  
-| annual subscription costs paid year on year       |                                   |                                   | $400                             | $600|  
+| *Discount applied to multi year for early payment                                                  | $250                             | $200   | $350 <br>(discount $50) |$500<br> (discount $100)|  
+| annual subscription costs paid year on year upfront       |                                   |                $200                   | $400                             | $600|  
 
 Contacts our local Sales team to arrange the subscription that suits you 
 
