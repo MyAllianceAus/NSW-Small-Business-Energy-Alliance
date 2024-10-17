@@ -6,7 +6,7 @@ permalink: /Plans
 
 Compare our subscription plans to find what suits you
 
-<b>Subscription Based Plans:</b>   
+<b>Subscription Based Plans:</b>  
 
 
 |Basic Plan Inclusion|One off Energy Offer|<b>12 month subscription plan</b>|<b>24 month Subscription Plan</b>|<b>36 month Subscription Plan|   
