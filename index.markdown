@@ -22,7 +22,7 @@ We encourage small businesses to join our mailing list to keep up to date with t
 Energy retailers are jumping onboard to support our movement and are keen to help deliver dicounts on energy pricing to our small business owners.
 By bolstering our numbers we increase our buying power and audience and draw the attention from the market that is needed to help toward you become sustainable.  
 
-
+![NSW Small Business Energy Alliance. Uniting for Fair Energy Prices & Success. Advocate Educate Collaborate.](/assets/celebrate.svg)
 
 Combined you are the greatest energy consumers by volume in our nation and the hard work you put in goes a long way to keeping our energy retailers in business and our country moving forward. 
 
