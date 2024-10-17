@@ -9,18 +9,24 @@
 
 ![NSW Small Business Energy Alliance. Uniting for Fair Energy Prices & Success. Advocate Educate Collaborate.](/assets/Plans.svg)
 
-NSW Small Business Energy Alliance is the first of a series of a group of Energy focused consultative, advocacy , educational and collaborative movements targeted at helping small business by providing access to some of the sharpest prices in the electricity market along with services designed to empower small business with the tools, education and confidence to navigate the market, in partnership with NSW Small Business Energy Alliance. With the intention of helping Small Business owners to ease the financial  burden that comes with owning and operating small business in Australia.
+NSW Small Business Energy Alliance is the first of a series of Energy focused  advocacy, educational and collaborative movements around the country that is targeted at helping small business.  
 
-In the coming months with the support of local councils,  we will be holding local <b>Advocacy</b> workshops to bring the Alliance to you with the intent of holding open forums to answer your questions and let you know how we can help.  
+By providing access to some of the <b>sharpest prices in the electricity market</b> along with services designed to empower small business with the tools, education and confidence to navigate the market.  
 
-We will be taking the campaign to other states and small business owners in the very near future so watch this space, however this doesnt mean we cant help mall business colleagues in other states immediately. So please, dont struggle in silence, reach out,  if we can assist in anyway rest assured, We WILL.  
+The intention - It's reallyy simplem, we are focused on helping Small Business owners ease the financial  burden that comes with owning and operating small business in Australia.No scams, no smoke and mirrors, just a fair dinkum approah to a real world problem,<b>sustainable,affordable pricing energy rates for the people that need them most, YOU</b>.
 
-We encourage small businesses to join our mailing list to keep up to date with the latest news onb  when we are coming to a state near you and how we can help (Dont worry we wont SPAM you daily!.)   
+In the coming months with the support of local councils,  we will be holding local <b>Advocacy</b> workshops to bring the Alliance to you with the intent of holding open forums to educate our members and guests on the energy market the only way I know how, SIMPLY and to answer your questions and let you know we are here and we sincerely want to help you!.  
 
-<b>Retailer Partnerships:</b>  
+In the coming months we will be taking the campaign across our boarders to other states, into every corner of the country  to bring the message to you as  small business owners in the very near future so watch this space.  
+
+This doesnt mean we cant help small business colleagues in other states immediately. So please, dont struggle in silence, reach out,  if we can assist in any way, rest assured, We WILL.  
+
+We encourage small businesses to join our mailing list to keep up to date with the latest news, including when we are headed your way (Dont worry we wont SPAM you daily!.)  
+
+<b>Retailer Partnerships:</b>
 
 Energy retailers are jumping onboard to support our movement and are keen to help deliver dicounts on energy pricing to our small business owners.
-By bolstering our numbers we increase our buying power and audience and draw the attention from the market that is needed to help toward you become sustainable.  
+By bolstering our numbers we increase our buying power and audience and draw the attention from the market that is needed to help you become sustainable into the future.  
 
 ![NSW Small Business Energy Alliance. Uniting for Fair Energy Prices & Success. Advocate Educate Collaborate.](/assets/celebrate.svg)
 
