@@ -21,10 +21,7 @@ Compare our subscription plans to find what suits you
 |25% discount on future group deals||||✅|  
 |*25% off the next renewal||||✅|  
 |**Free Advertising of your business on the MyAlliance.com.au website||✅|✅|✅|  
-|Upfront 2 or 3 year subscription discount apply for year 2 and 3 |$250|$200|$350<br>(discount $50)|$500<br>(discount $100)|  
-|annual subscription costs paid year on year upfront non-discounted cost|$250|$200|$400|$600|  
 
-Note: Pricing displayed is Exclusive of GST  
 
 Contact our local Sales team to arrange the subscription that suits you sales@myalliance.com.au
   
@@ -37,4 +34,4 @@ Note: Advertising must not offend or insult and be compliant with advertising la
   
 <b>Multi site discounts are available</b>
  
-Speak to our friendly sales team to find out more.
+
