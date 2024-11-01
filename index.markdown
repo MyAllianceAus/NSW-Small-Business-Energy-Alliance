@@ -7,7 +7,7 @@
 ---
 
 
-![NSW Small Business Energy Alliance. Uniting for Fair Energy Prices & Success. Advocate Educate Collaborate.](/assets/Plans.svg)
+![NSW Small Business Energy Alliance. Uniting for Fair Energy Prices & Success. Advocate Educate Collaborate.](/assets/22.jpg)
 
 NSW Small Business Energy Alliance is the first of a series of Energy focused  advocacy, educational and collaborative movements around the country that is targeted at helping small business.  
 
