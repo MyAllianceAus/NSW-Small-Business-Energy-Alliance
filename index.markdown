@@ -9,6 +9,10 @@
 
 ![NSW Small Business Energy Alliance. Uniting for Fair Energy Prices & Success. Advocate Educate Collaborate.](/assets/22.jpg)
 
+If you are in an embedded network you are luck to be getting less than half of the current offer.  
+
+In Monetary terms you could literally be saving up to $1,000 a month or more. Why put it off any longer? Put the money back in your pocket !!  
+
 NSW Small Business Energy Alliance is the first of a series of Energy focused  advocacy, educational and collaborative movements around the country that is targeted at helping small business.  
 
 By providing access to some of the <b>sharpest prices in the electricity market</b> along with services designed to empower small business with the tools, education and confidence to navigate the market.  
