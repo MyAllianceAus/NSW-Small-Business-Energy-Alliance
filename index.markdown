@@ -6,21 +6,6 @@
 ---  
 
 
-<html>
- <head>
- <!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-73F8PVGLRP"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-73F8PVGLRP');
-</script>
-
-</head>
-
-
 ![NSW Small Business Energy Alliance. Uniting for Fair Energy Prices & Success. Advocate Educate Collaborate.](/assets/22.jpg)
 
 If you are in an embedded network you will most likely be lucky to be getting less than half of what your provider should be offering, because this is how they operate.  
