@@ -16,8 +16,6 @@ Compare our subscription plans to find what suits you
 |Monthly Market News Letter||✅|✅|✅|  
 |Annual payment option|||✅|✅|  
 |Free quarterly Market rate review|||✅|✅|  
-|Free [Bill Validation Services](https://myalliance.com.au/BV)for term of the contract|||✅|✅|  
-|25% discount on future group deals||||✅|  
 |**Free Advertising of your business on the MyAlliance.com.au website||✅|✅|✅|  
 
 
