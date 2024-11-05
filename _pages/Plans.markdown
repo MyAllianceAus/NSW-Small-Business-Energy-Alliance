@@ -8,7 +8,6 @@ Compare our subscription plans to find what suits you
 
 <b>Subscription Based Plans:</b>  
 
-**Limited Time Launch Sale: Buy Three Year Subscription and get an extra 2 years for the price of 3, Offer ends 31/12/2024.**
 
 |Basic Plan Inclusion|One off Energy Offer|<b>12 month subscription plan</b>|<b>24 month Subscription Plan</b>|<b>36 month Subscription Plan|   
 |:-------------------------------------|:---------------:|:---------------:|:---------------:|:---------------:|
@@ -26,8 +25,6 @@ Compare our subscription plans to find what suits you
 
 Contact our local Sales team to arrange the subscription that suits you sales@myalliance.com.au
   
-**25% off the next renewal only applies after a fixed 3 year subscription is entered into at the priceses set out in the table.   
-Note subscription charges are per site/store (if you own mutliple sites the subscription only covers one site).  
 
 ***Advertising is free for the period of your contract via the MyAlliance website in a shared space on the home page where our client's provided banner will alternate with other client's 24/7  
 
