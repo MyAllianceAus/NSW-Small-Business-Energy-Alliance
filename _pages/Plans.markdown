@@ -14,12 +14,10 @@ Compare our subscription plans to find what suits you
 |One off Energy Discount offer & assisted transfer|✅||||  
 |Tailored Energy Discounted offer & transfer assistance||✅|✅|✅|  
 |Monthly Market News Letter||✅|✅|✅|  
-|<b>INTRODUCTORY</b> discount for upfront payment of multi year subscription|||✅|✅|  
 |Annual payment option|||✅|✅|  
 |Free quarterly Market rate review|||✅|✅|  
 |Free [Bill Validation Services](https://myalliance.com.au/BV)for term of the contract|||✅|✅|  
 |25% discount on future group deals||||✅|  
-|*25% off the next renewal||||✅|  
 |**Free Advertising of your business on the MyAlliance.com.au website||✅|✅|✅|  
 
 
