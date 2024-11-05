@@ -3,8 +3,22 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
  layout: home
+---  
 
----
+
+<html>
+ <head>
+ <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-73F8PVGLRP"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-73F8PVGLRP');
+</script>
+
+</head>
 
 
 ![NSW Small Business Energy Alliance. Uniting for Fair Energy Prices & Success. Advocate Educate Collaborate.](/assets/22.jpg)
@@ -37,3 +51,5 @@ By bolstering our numbers we increase our buying power and audience and draw the
 Combined you are the greatest energy consumers by volume in our nation and the hard work you put in goes a long way to keeping our energy retailers in business and our country moving forward. 
 
 
+
+</html>
