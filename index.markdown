@@ -12,6 +12,9 @@ If you are in an embedded network you will most likely be lucky to be getting le
 
 In Monetary terms you could literally be saving up to $1,000 per invoice or more. Why put it off any longer? Put the money back in your pocket !!  
 
+<b>contact us at sales@myalliance.com.au</b>
+
+
 NSW Small Business Energy Alliance is the first of a series of Energy focused advocacy, educational and collaborative movements move around the country state by state and has its targets set on helping small business reduce thier energy costs and more.  
 
 By providing access to some of the <b>sharpest prices in the electricity market</b> along with services designed to empower small business with the tools, education and confidence to navigate the market.  
@@ -37,4 +40,5 @@ Combined you are the greatest energy consumers by volume in our nation and the h
 
 
 
-</html>
+
+
