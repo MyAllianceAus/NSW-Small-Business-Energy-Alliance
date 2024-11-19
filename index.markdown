@@ -5,6 +5,10 @@
  layout: home
 ---  
 
+NSW SMALL BUSINESS ENERGY ALLIANCE REFERAL PROGRAM:  
+Refer a friend to the NSW Small Business Energy Alliance to save on thier energy bills and earn $100 when your referral signs up on a NSW Small Business Energy Alliance negotiated retailer energy supply contract. Payment is due when the referral received their first energy invoice from thier new supplier.   
+For more information and joining the referral program , email info @myalliance.com.au
+
 
 ![NSW Small Business Energy Alliance. Uniting for Fair Energy Prices & Success. Advocate Educate Collaborate.](/assets/22.jpg)
 
