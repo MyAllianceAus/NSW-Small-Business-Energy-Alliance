@@ -4,6 +4,11 @@
 
  layout: home
 ---  
+<b> NEWSFLASH!  We Are Expanding!!  </b>  
+Victoria , South Australia and Queensland ! its your turn to experience market leading rates , reach out to us now to find out how we can save our customers on average of 40-50% off thier energy rates!  
+email us at info@myalliance.com.au  or call 0400 520 997 and speak to me directly  
+Andrew Smith  
+Founder and CEO  
 
 ![NSW Small Business Energy Alliance. Uniting for Fair Energy Prices & Success. Advocate Educate Collaborate.](/assets/indexV2.png) 
 
