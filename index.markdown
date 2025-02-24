@@ -3,7 +3,7 @@ layout: home
 title: Save Up to 40% on Your Electricity Bills with NSW Small Business Energy Alliance
 ---
 
-# Save Up to 40% on Your Electricity Bills with NSW Small Business Energy Alliance  
+# Save Up to 40% on Your Electricity Bills with NSW Small Business Energy Alliance
 
 ### Helping NSW Small Businesses and Embedded Network Tenants Reduce Energy Costs
 
@@ -35,18 +35,7 @@ Victoria, South Australia, and Queensland! It's your turn to experience market-l
 1. Contact us for a free consultation.
 2. We analyze your energy usage and identify savings opportunities.
 3. You start saving on your electricity bills.
-4. If we cant save you money, you pay nothing for our service.
+4. If we can't save you money, you pay nothing for our service.
 
 ## Contact Us
-- **Email**: [info@myalliance.com.au](mailto:info@myalliance.com.au)
-- **Phone**: 0400 520 997
-
-<form action="/submit-form" method="post">
-  <label for="name">Name:</label>
-  <input type="text" id="name" name="name" required>
-  <label for="email">Email:</label>
-  <input type="email" id="email" name="email" required>
-  <label for="message">Message:</label>
-  <textarea id="message" name="message" required></textarea>
-  <button type="submit">Send</button>
-</form>
+If you have any questions or need more information, Email us at info@myalliance.com.au or call 0400 520 997.  
