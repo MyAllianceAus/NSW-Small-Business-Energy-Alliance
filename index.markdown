@@ -1,5 +1,6 @@
 ---
 layout: home
+title: Save Up to 40% on Your Electricity Bills with NSW Small Business Energy Alliance
 ---
 
 # Save Up to 40% on Your Electricity Bills with NSW Small Business Energy Alliance  
