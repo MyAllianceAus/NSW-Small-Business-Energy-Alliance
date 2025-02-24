@@ -45,8 +45,9 @@ If you have any questions or need more information, please fill out the form bel
 <form
   action="https://formspree.io/f/manqzvwz"
   method="POST"
+  enctype="multipart/form-data"
 >
-   <label>
+  <label>
     Your Name:
     <input type="text" name="Name">
   </label>  
@@ -62,7 +63,13 @@ If you have any questions or need more information, please fill out the form bel
     Your message:
     <textarea name="message"></textarea>
   </label>  
-  
+
+  <br>
+  <label>
+    Upload a copy of your latest invoice for an obligation free evaluation of your energy account including the cheapest comparative rates we can get you in the current market:
+    <input type="file" name="file" required>
+  </label>
+
   <br>
   <button type="submit">Send</button>
 </form>
