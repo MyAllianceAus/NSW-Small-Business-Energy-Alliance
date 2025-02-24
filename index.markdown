@@ -54,7 +54,7 @@ If you have any questions or need more information, please fill out the form bel
 
   <br>
   <label>
-    Your email:
+    Your  email:&nbsp; 
     <input type="email" name="email">
   </label>  
 
@@ -62,11 +62,10 @@ If you have any questions or need more information, please fill out the form bel
  <br>  
  <label>
     Your 
-  </label>
- <br>
+ </label>
  <label>
     message:
-    <textarea name="message"></textarea>
+    <textarea name="message"&nbsp;&nbsp;></textarea>
   </label>
   <br>
   <br>
