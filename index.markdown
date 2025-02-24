@@ -56,6 +56,7 @@ If you have any questions or need more information, please fill out the form bel
     Your  email:&nbsp; 
     <input type="email" name="email">
 </label>  
-  
+<br>
 <label for="message">Your message:</label>
+<br>
         <textarea name="message" id="message" rows="4" cols="50"></textarea>
