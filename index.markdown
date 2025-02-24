@@ -1,10 +1,13 @@
-# Save Up to 40% on Your Electricity Bills with NSW Small Business Energy Alliance
-
-### Helping NSW Small Businesses and Embedded Network Tenants Reduce Energy Costs
 
 ![NSW Small Business Energy Alliance. Uniting for Fair Energy Prices & Success. Advocate Educate Collaborate.](/assets/indexV2.png)
+# Helping NSW Small Businesses and Embedded Network Tenants Reduce Energy Costs
+## Save Up to 40% on Your Electricity Bills with NSW Small Business Energy Alliance
+## VIC, SA, QLD Finally 2025 is your Year We're Expanding!
+Victoria, South Australia, and Queensland! It's your turn to experience market-leading rates, Support/Advocacy & Education.  
+Reach out to us now to find out how we can save you.
+Uur customers are saving on average of 40-50% off their energy rates. Email us at [info@myalliance.com.au](mailto:info@myalliance.com.au), call 0400 520 997 or complete the form below for an obligation free discussion.  
 
-## Are You Prepared for Rising Energy Costs?
+### Are You Prepared for Rising Energy Costs?
 
 Some experts predict energy rates to increase by up to 65% (including inflation) over the next decade, driven by the national energy transformation project. Don't let your business get caught off guard! Don't be fooled by those supposedly in the know claiming that prices are going to come down!
 
@@ -17,20 +20,17 @@ How often in your lifetime have you seen a drastic reduction in the cost of elec
 - **Tailored Solutions**: We offer customized energy plans that cater specifically to your business needs, ensuring maximum efficiency and cost-effectiveness.
 - **Sustainability**: Our solutions are designed to promote environmental responsibility, helping your business operate more sustainably.
 
-## Unlock Substantial Energy Savings Today!
+### Unlock Substantial Energy Savings Today!
 We would love the opportunity to discuss how we can assist your business in achieving significant savings and improving your energy efficiency. Reach out to us at [info@myalliance.com.au](mailto:info@myalliance.com.au) or call: 0400 520 997.
 
 ### Join Our Rapidly Expanding Customer Base
 Join our rapidly expanding customer base who are enjoying savings on their energy bills as we are able to halve their current energy rates in most cases.
 
-### We're Expanding
-Victoria, South Australia, and Queensland! It's your turn to experience market-leading rates. Reach out to us now to find out how we can save our customers on average of 40-50% off their energy rates. Email us at [info@myalliance.com.au](mailto:info@myalliance.com.au) or call 0400 520 997.
-
 ## How It Works
 1. Contact us for a free consultation.
 2. We analyze your energy usage and identify savings opportunities.
 3. You start saving on your electricity bills.
-4. If we can't save you money, you pay nothing for our service.
+4. BEST OF ALL **If we can't save you money, you pay nothing for our service**.
 
 
 # Contact Us
