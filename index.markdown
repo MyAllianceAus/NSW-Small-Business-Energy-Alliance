@@ -58,12 +58,17 @@ If you have any questions or need more information, please fill out the form bel
     <input type="email" name="email">
   </label>  
 
-  <br>
-  <label>
-    Your message:
+ <br>
+ <br>  
+ <label>
+    Your 
+  </label>
+ <br>
+ <label>
+    message:
     <textarea name="message"></textarea>
-
-
+  </label>
+  <br>
   <br>
   <button type="submit">Send</button>
 
