@@ -38,10 +38,14 @@ header_pages:
  - _pages/about.markdown
 
 # Build settings
-plugins:
-  - jekyll-feed
-  - jekyll-sitemap
+markdown: kramdown
 
+# Exclude these files from being processed
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
 # other directories to include
 include:
   - _pages
