@@ -45,17 +45,32 @@ If you are interested in collaborating with NSW Small Business Energy Alliance, 
 - **Workshops and Seminars**: Host educational events to share knowledge and best practices with small businesses. These events can help businesses learn how to reduce their energy consumption and costs.
 - **Advocacy Efforts**: Join us in advocating for policies and practices that benefit small business energy consumers. By working together, we can amplify our impact and drive positive change in the energy sector.
 
-## Contact Us
-To explore collaboration opportunities, please reach out to us:
-- **Email**: [info@myalliance.com.au](mailto:info@myalliance.com.au)
-- **Phone**: 0400 520 997
+# Contact Us
 
-<form action="/submit-form" method="post">
-  <label for="name">Name:</label>
-  <input type="text" id="name" name="name" required>
-  <label for="email">Email:</label>
-  <input type="email" id="email" name="email" required>
-  <label for="message">Message:</label>
-  <textarea id="message" name="message" required></textarea>
-  <button type="submit">Send</button>
-</form>
+If you have any questions or need more information, please fill out the form below and we will get back to you as soon as possible.
+
+<form
+  action="https://formspree.io/f/manqzvwz"
+  method="POST"
+  enctype="multipart/form-data"
+>
+<label>
+    Your Name:
+    <input type="text" name="Name">
+</label>  
+<br>  
+
+<label>
+    Your  email:&nbsp; 
+    <input type="email" name="email">
+</label>  
+
+<br>  
+
+<label for="message">Your message:</label>
+<br>
+        <textarea name="message" id="message" rows="4" cols="50"></textarea>  
+<br>  
+ <button type="submit">Submit</button>  
+ 
+
