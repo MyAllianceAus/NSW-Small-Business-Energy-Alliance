@@ -1,6 +1,6 @@
 ---
 layout: page
-title: MyAlliance.com.au
+title: index
 ---
 
 ![NSW Small Business Energy Alliance. Uniting for Fair Energy Prices & Success. Advocate Educate Collaborate.](/assets/indexV2.png)
