@@ -1,8 +1,3 @@
----
-layout: home
-title: Save Up to 40% on Your Electricity Bills with NSW Small Business Energy Alliance
----
-
 # Save Up to 40% on Your Electricity Bills with NSW Small Business Energy Alliance
 
 ### Helping NSW Small Businesses and Embedded Network Tenants Reduce Energy Costs
@@ -38,4 +33,16 @@ Victoria, South Australia, and Queensland! It's your turn to experience market-l
 4. If we can't save you money, you pay nothing for our service.
 
 ## Contact Us
-If you have any questions or need more information, Email us at info@myalliance.com.au or call 0400 520 997.  
+If you have any questions or need more information, please fill out the form below and we will get back to you as soon as possible.
+
+<div style="max-width: 600px; margin: 0 auto; padding: 1em; background: #f9f9f9; border-radius: 5px;">
+  <form action="https://formspree.io/f/manqzvwz/CONTACT_US" method="post">
+    <label for="name" style="margin: .5em 0 .5em; color: #333333; display: block;">Name:</label>
+    <input type="text" id="name" name="name" required style="width: 100%; padding: .5em; border: 1px solid #CCCCCC; border-radius: 4px; box-sizing: border-box; margin-bottom: 1em;">
+    <label for="email" style="margin: .5em 0 .5em; color: #333333; display: block;">Email:</label>
+    <input type="email" id="email" name="email" required style="width: 100%; padding: .5em; border: 1px solid #CCCCCC; border-radius: 4px; box-sizing: border-box; margin-bottom: 1em;">
+    <label for="message" style="margin: .5em 0 .5em; color: #333333; display: block;">Message:</label>
+    <textarea id="message" name="message" required style="width: 100%; padding: .5em; border: 1px solid #CCCCCC; border-radius: 4px; box-sizing: border-box; margin-bottom: 1em;"></textarea>
+    <button type="submit" style="padding: 0.7em; color: #fff; background-color: #007BFF; border: none; border-radius: 5px; cursor: pointer;">Send</button>
+  </form>
+</div>
