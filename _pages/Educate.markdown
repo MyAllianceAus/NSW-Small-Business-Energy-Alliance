@@ -58,18 +58,32 @@ We provide a wealth of educational resources to help you stay informed and make 
 ## How to Participate
 Participation in our workshops is free and open to all small business owners. To sign up for an upcoming workshop or access our educational resources, please visit our [Events Page](#) or contact us directly.
 
-## Contact Us
-If you have any questions or need more information about our educational programs, please reach out to us:
-- **Email**: [info@myalliance.com.au](mailto:info@myalliance.com.au)
-- **Phone**: 0400 520 997
+# Contact Us
 
-<form action="/submit-form" method="post">
-  <label for="name">Name:</label>
-  <input type="text" id="name" name="name" required>
-  <label for="email">Email:</label>
-  <input type="email" id="email" name="email" required>
-  <label for="message">Message:</label>
-  <textarea id="message" name="message" required></textarea>
-  <button type="submit">Send</button>
-</form>
+If you have any questions or need more information, please fill out the form below and we will get back to you as soon as possible.
+
+<form
+  action="https://formspree.io/f/manqzvwz"
+  method="POST"
+  enctype="multipart/form-data"
+>
+<label>
+    Your Name:
+    <input type="text" name="Name">
+</label>  
+<br>  
+
+<label>
+    Your  email:&nbsp; 
+    <input type="email" name="email">
+</label>  
+
+<br>  
+
+<label for="message">Your message:</label>
+<br>
+        <textarea name="message" id="message" rows="4" cols="50"></textarea>  
+<br>  
+ <button type="submit">Submit</button>  
+ 
 
