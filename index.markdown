@@ -59,4 +59,8 @@ If you have any questions or need more information, please fill out the form bel
 <br>
 <label for="message">Your message:</label>
 <br>
-        <textarea name="message" id="message" rows="4" cols="50"></textarea>
+        <textarea name="message" id="message" rows="4" cols="50"></textarea>  
+<br>  
+ <button type="submit">Submit</button>  
+ 
+
