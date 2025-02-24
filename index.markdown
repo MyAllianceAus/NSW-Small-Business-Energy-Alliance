@@ -49,17 +49,20 @@ If you have any questions or need more information, please fill out the form bel
    <label>
     Your Name:
     <input type="text" name="Name">
-  </label>
+  </label>  
+
   <br>
   <label>
     Your email:
     <input type="email" name="email">
-  </label>
+  </label>  
+
   <br>
   <label>
     Your message:
     <textarea name="message"></textarea>
-  </label>
+  </label>  
+  
   <br>
   <button type="submit">Send</button>
 </form>
