@@ -47,25 +47,19 @@ If you have any questions or need more information, please fill out the form bel
   method="POST"
   enctype="multipart/form-data"
 >
-  <label>
+<label>
     Your Name:
     <input type="text" name="Name">
-  </label>  
+</label>  
 
-  <br>
-  <label>
+<label>
     Your  email:&nbsp; 
     <input type="email" name="email">
-  </label>  
-
- <br>
- <br>  
- <label>
-    Your 
- </label>
- <label>
-    message:
-    <textarea name="message"&nbsp;&nbsp;></textarea>
+</label>  
+  
+<label>
+   Your message: 
+    <textarea name="message"&nbsp;&nbsp;&nbsp;></textarea>
   </label>
   <br>
   <br>
