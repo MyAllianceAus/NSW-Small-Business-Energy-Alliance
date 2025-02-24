@@ -40,7 +40,7 @@ Join our rapidly expanding customer base who are enjoying savings on their energ
 
 # Contact Us
 
-If you have any questions or need more information, please fill out the form below and we will get back to you as soon as possible.
+If you have any questions or need more information, you can either call 0400 520 997 , email info@myalliance.com.au OR fill out the form below and we will get back to you as soon as possible.
 
 <form
   action="https://formspree.io/f/manqzvwz"
