@@ -14,7 +14,7 @@ Uur customers are saving on average of 40-50% off their energy rates. Email us a
 
 ### Are You Prepared for Rising Energy Costs?
 
-Some experts predict energy rates to increase by up to 65% (including inflation) over the next decade, driven by the national energy transformation project. Don't let your business get caught off guard! Don't be fooled by those supposedly in the know claiming that prices are going to come down!
+Some experts predict energy rates to increase by up to 65% (including inflation) "for the next decade"", driven by the national energy transformation project. Don't let your business get caught off guard! Don't be fooled by those supposedly in the know claiming that prices are going to come down!or that these increases will only last the next 10 years !. Get yourself well positioned for the road ahead.
 
 ### Ask Yourself This
 How often in your lifetime have you seen a drastic reduction in the cost of electricity? That's right, it's HIGHLY unlikely to happen anytime soon.
