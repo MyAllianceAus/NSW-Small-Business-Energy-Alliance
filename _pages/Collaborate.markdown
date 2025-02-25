@@ -49,11 +49,12 @@ If you are interested in collaborating with NSW Small Business Energy Alliance, 
 
 If you have any questions or need more information, you can either call 0400 520 997 , email info@myalliance.com.au OR fill out the form below and we will get back to you as soon as possible.
 
+
 <form
   action="https://formspree.io/f/manqzvwz"
   method="POST"
   enctype="multipart/form-data"
-info
+>
 <label>
     Your Name:
     <input type="text" name="Name">
@@ -71,6 +72,4 @@ info
 <br>
         <textarea name="message" id="message" rows="4" cols="50"></textarea>  
 <br>  
- <button type="submit">Submit</button>  
- 
-
+ <button type="submit">Submit</button> 
