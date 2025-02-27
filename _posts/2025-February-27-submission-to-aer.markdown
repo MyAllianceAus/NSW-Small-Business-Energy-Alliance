@@ -1,6 +1,6 @@
 ---
-layout page
-posts  Embedded Network Tenants in the Australian NEM
+layout: \blog
+title:  Embedded Network Tenants in the Australian NEM
 ---
 **Embedded Network Tenants in the Australian National Electricity Market (NEM)**
 
