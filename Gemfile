@@ -1,6 +1,10 @@
 source 'https://rubygems.org'
 
+<<<<<<< HEAD
 gem 'jekyll', '~> 3.9.0'
+=======
+gem 'jekyll', '~> 4.2.0'
+>>>>>>> 7dea5a8a5e354b9339e8e85a1b5aece11e8423b5
 gem 'github-pages', group: :jekyll_plugins
 
 group :jekyll_plugins do
