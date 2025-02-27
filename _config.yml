@@ -18,7 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 feed:
-  path: atom.xml
+  path: atom.xml  
+  plugins:
+  - jekyll-feed
+
 title: My Alliance
 email: support@myalliance.com.au
 description: >- # this means to ignore newlines until "baseurl:"
