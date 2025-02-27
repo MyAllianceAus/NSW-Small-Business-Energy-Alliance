@@ -1,8 +1,4 @@
-source "https://rubygems.org"
-gem 'jekyll', '~> 4.2.0'
-gem 'jekyll-feed'
-source 'https://rubygems.org'
-gem 'github-pages', group: :jekyll_plugins
+
 
 
 # Hello! This is where you manage which Jekyll version is used to run.
@@ -20,6 +16,12 @@ gem 'github-pages', group: :jekyll_plugins
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
 gem "github-pages", group: :jekyll_plugins
 # If you have any plugins, put them here!
+source "https://rubygems.org"
+gem 'jekyll', '~> 4.2.0'
+gem 'jekyll-feed'
+source 'https://rubygems.org'
+gem 'github-pages', group: :jekyll_plugins
+
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"
 end
