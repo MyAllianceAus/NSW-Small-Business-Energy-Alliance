@@ -1,4 +1,8 @@
 GEM
+source 'https://rubygems.org'
+gem 'jekyll', '~> 4.2.0'
+gem 'jekyll-feed'
+
   remote: https://rubygems.org/
   specs:
     activesupport (7.2.1)
