@@ -4,8 +4,9 @@ layout: blog
 permalink: /blog
 ---
 
-27 February 2025  
-MYAlliance submission to the Australian Energy Market Commission (AEMC)
+2025-February-27 Submission to the AEMC
+
+**MYAlliance submission to the Australian Energy Market Commission (AEMC)**
 Today, NSW Small Business Energy Alliance(MYALLIANCE) submitted the following paper to the AEMC with notice to the AER on the anti-competive nature of commercial embedded network operators and managers with the NEM (National Electricity Market) 
 **Embedded Network Tenants in the Australian National Electricity Market **  
 
