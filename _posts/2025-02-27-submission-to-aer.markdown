@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Submission To The AEMC RE NUoS Process Recommendation for SM EN Tenants"
+title: "Submission To The AEMC Re: NUOS Process Recommendation for SM EN Tenants"
 date:   2025-02-27 11:51:27 +1100
 categories:  Advocating for Small Business
 author: Andrew Smith
