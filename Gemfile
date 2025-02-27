@@ -1,10 +1,14 @@
 source "https://rubygems.org"
+gem 'jekyll', '~> 4.2.0'
+gem 'jekyll-feed'  
+
 # Hello! This is where you manage which Jekyll version is used to run.
 # When you want to use a different version, change it below, save the
 # file and run `bundle install`. Run Jekyll with `bundle exec`, like so:
 #
-#     bundle exec jekyll serve
-#
+#     bundle exec jekyll servesource 'https://rubygems.org'
+
+
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
 # gem "jekyll", "~> 4.3.4"
