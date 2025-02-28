@@ -5,7 +5,7 @@ title:
 
 
 ![NSW Small Business Energy Alliance. Uniting for Fair Energy Prices & Success. Advocate Educate Collaborate.](/assets/indexV2.png)  
-# [Click here ](https://myalliance.com.au/advocating/for/small/business/2025/02/27/submission-to-aer.html)To check out our latest submission to the AEMC [Australian Energy Market Commission] on how we feel they can make the market for Embedded Network SMB Tenants more competitive.
+# [Click here ](https://myalliance.com.au/advocating/for/small/business/2025/02/27/submission-to-aemc.html)To check out our latest submission to the AEMC [Australian Energy Market Commission] on how we feel they can make the market for Embedded Network SMB Tenants more competitive.
 
 # Helping NSW Small BuCinesses and Embedded Network Tenants Reduce Energy Costs
 ## Save Up to 40% on Your Electricity Bills with NSW Small Business Energy Alliance
