@@ -4,7 +4,7 @@ title:
 ---
 
 
-![NSW Small Business Energy Alliance. Uniting for Fair Energy Prices & Success. Advocate Educate Collaborate.](/assets/NSWSBEA HPB 2.0.1.png)  
+![NSW Small Business Energy Alliance. Uniting for Fair Energy Prices & Success. Advocate Educate Collaborate.](/assets/NSWSBEA HPB%20%2.0.1.png)  
 # [Click here ](https://myalliance.com.au/advocating/for/small/business/2025/02/27/submission-to-aemc.html)To check out our latest submission to the AEMC [Australian Energy Market Commission] on how we feel they can make the market for Embedded Network SMB Tenants more competitive.
 
 # Helping NSW Small BuCinesses and Embedded Network Tenants Reduce Energy Costs
