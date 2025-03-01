@@ -6,7 +6,9 @@ title: Educate
 # Educate with NSW Small Business Energy Alliance
 
 ## Introduction
-At NSW Small Business Energy Alliance, we are committed to educating consumers about the energy market and helping them understand how they can benefit from collaborating with us. Our goal is to empower small businesses with the knowledge and tools they need to reduce energy costs and improve efficiency.
+At NSW Small Business Energy Alliance, we are committed to educating consumers about the energy market and helping them understand how they can benefit from collaborating with us. Our goal is to empower small businesses with the knowledge and tools they need to reduce energy costs and improve efficiency.  
+
+---  
 
 ## Our Mission
 Our mission is to:
@@ -16,7 +18,9 @@ Our mission is to:
   - By understanding their energy consumption patterns and the options available, consumers can choose the best energy plans and practices for their needs.
 - **Promote Collaboration**: Highlight the benefits of working with NSW Small Business Energy Alliance to achieve significant energy savings.
   - Through collaboration, businesses can leverage collective bargaining power and access tailored energy solutions that maximize savings.
-
+ 
+---
+  
 ## Virtual Workshops
 We offer a range of virtual workshops that are accessible to all small business owners. These workshops cover topics such as:
 - **Understanding the Energy Market**: Gain insights into how the energy market operates and how it impacts your business.
@@ -31,6 +35,8 @@ We offer a range of virtual workshops that are accessible to all small business 
 2. **Maximizing Energy Efficiency**: Tips and strategies for reducing energy consumption.
 3. **Collaborating for Savings**: How working with us can help you save on your energy bills.
 
+---  
+
 ## Face-to-Face Workshops
 In addition to virtual workshops, we also offer face-to-face workshops for a more personalized learning experience. These workshops provide hands-on training and direct interaction with our energy experts.
 
@@ -41,6 +47,8 @@ In addition to virtual workshops, we also offer face-to-face workshops for a mor
 3. **Partnering for Success**: Real-life case studies of businesses that have benefited from collaborating with us.
   - Hear success stories and learn from the experiences of other small businesses that have achieved significant savings through our programs.
 
+---  
+
 ## Educational Resources
 We provide a wealth of educational resources to help you stay informed and make the best decisions for your business. Our resources include:
 - **Webinars**: Recorded sessions on various energy topics.
@@ -50,13 +58,20 @@ We provide a wealth of educational resources to help you stay informed and make 
 - **Articles and Blog Posts**: Regular updates and insights on the energy market.
   - Stay updated with the latest news, trends, and tips through our regularly published articles and blog posts.
 
+---  
+
 ## Testimonials
 ### What Our Participants Say
 - "The virtual workshop on energy-saving strategies was incredibly insightful. I've already started implementing some of the tips!" - Jane Smith, Small Business Owner
 - "The face-to-face workshop provided a great opportunity to interact with experts and get personalized advice." - Mark Johnson, Retail Shop Owner
 
+---  
+
+
 ## How to Participate
-Participation in our workshops is free and open to all small business owners. To sign up for an upcoming workshop or access our educational resources, please visit our [Events Page](#) or contact us directly.
+Participation in our workshops is free and open to all small business owners. To sign up for an upcoming workshop or access our educational resources, please visit our [Events Page](#) or contact us directly.  
+
+---  
 
 # Contact Us
 
