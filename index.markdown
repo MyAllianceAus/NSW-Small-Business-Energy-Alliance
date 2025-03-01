@@ -5,21 +5,32 @@ title:
 
 
 ![NSW Small Business Energy Alliance. Uniting for Fair Energy Prices & Success. Advocate Educate Collaborate.](/assets/NSWSBEAHPB2.png)  
-# [Click here ](https://myalliance.com.au/advocating/for/small/business/2025/02/27/submission-to-aemc.html)To check out our latest submission to the AEMC [Australian Energy Market Commission] on how we feel they can make the market for Embedded Network SMB Tenants more competitive.
+# [Click here ](https://myalliance.com.au/advocating/for/small/business/2025/02/27/submission-to-aemc.html)To check out our latest submission to the AEMC [Australian Energy Market Commission] on how we feel they can make the market for Embedded Network SMB Tenants more competitive.  
 
-# Helping NSW Small Businesses customers INCLUDING those withing Embedded Networks to Reduce thier Energy Costs
-## Save Up to 40% on Your Electricity Bills with  Small Business Energy Alliance
+---  
+
+# Helping NSW Small Businesses customers INCLUDING those within Embedded Networks to Reduce thier Energy Costs
+## Save Up to 40% on Your Electricity Bills with the help of NSW Small Business Energy Alliance.  
+
+---  
+
 ## VIC, SA, QLD Finally 2025 is your Year We're Expanding!
 Victoria, South Australia, and Queensland! It's your turn to experience market-leading rates, Support/Advocacy & Education.  
-Reach out to us now to find out how we can save you.
-Our customers are saving on average of 40-50% off their energy rates. Email us at [info@myalliance.com.au](mailto:info@myalliance.com.au), call 0400 520 997 or complete the form below for an obligation free discussion.  
+Reach out to us now to find out how we can help you save on your bills, the longer you do nothing the more its costing you and we dont want to see you suffer any longer than you already have.
+Our customers are saving an average of 40-50% off their energy rates simply by taking a leap of faith and entrusting us to help them.  
+Email us at [info@myalliance.com.au](mailto:info@myalliance.com.au), call 0400 520 997 or complete the form below for an obligation free discussion.  
+
+---  
+
 
 ### Are You Prepared for Rising Energy Costs?
 
 Some experts predict energy rates to increase by up to 65% (including inflation) "for the next decade"", driven by the national energy transformation project. Don't let your business get caught off guard! Don't be fooled by those supposedly in the know claiming that prices are going to come down!or that these increases will only last the next 10 years !. Get yourself well positioned for the road ahead.
 
 ### Ask Yourself This
-How often in your lifetime have you seen a drastic reduction in the cost of electricity? That's right, it's HIGHLY unlikely to happen anytime soon.
+How often in your lifetime have you seen a drastic reduction in the cost of electricity? That's right, it's HIGHLY unlikely to happen anytime soon.  
+
+---  
 
 ## Why Choose NSW Small Business Energy Alliance?
 - **Local Expertise**: As a Quakers Hill-based business, we understand the unique energy challenges faced by small businesses in our community.
@@ -39,6 +50,7 @@ Join our rapidly expanding customer base who are enjoying savings on their energ
 3. You start saving on your electricity bills.
 4. BEST OF ALL **If we can't save you money, you pay nothing for our service**.
 
+---  
 
 # Contact Us
 
