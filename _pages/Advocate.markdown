@@ -6,13 +6,17 @@ title: Advocate
 # Advocacy for Small Business Energy Consumers
 
 ## Introduction
-At NSW Small Business Energy Alliance, we are dedicated to advocating for the rights and interests of small business energy consumers. Our goal is to ensure fair and affordable energy rates for all, especially for those in embedded networks who often face unique challenges.
+At NSW Small Business Energy Alliance, we are dedicated to advocating for the rights and interests of small business energy consumers. Our goal is to ensure fair and affordable energy rates for all, especially for those in embedded networks who often face unique challenges.  
+
+---  
 
 ## Our Mission
 Our mission is to:
 - **Fight for Fair Energy Prices**: We work tirelessly to negotiate better energy rates for small businesses and embedded network tenants.
 - **Educate and Empower**: We provide resources and information to help consumers make informed decisions about their energy usage and contracts.
 - **Resolve Disputes**: We advocate on behalf of consumers in disputes with energy retailers, embedded network operators, and network operators.
+
+---  
 
 ## Success Stories
 ### Case Study 1: Credit Union in NSW  
@@ -23,13 +27,17 @@ Using our market knowledge we enagaged the ombudsmen to mediate. The end result 
 A retail shop in Sydney was struggling with high energy costs due to their embedded network. Our advocacy efforts resulted in a re-negotiated contract, saving the shop 25% on their energy bills.
 
 ### Case Study 3: Manufacturing Unit in Newcastle
-We assisted a manufacturing unit in Newcastle in resolving a dispute with their energy retailer. Our intervention led to a favorable resolution and a significant refund for overcharges.
+We assisted a manufacturing unit in Newcastle in resolving a dispute with their energy retailer. Our intervention led to a favorable resolution and a significant refund for overcharges.  
+
+---  
 
 ## Get Involved
 Join our advocacy efforts and help us make a difference:
 - **Share Your Story**: Have you faced challenges with your energy provider? Share your story with us.
 - **Stay Informed**: Subscribe to our newsletter to stay updated on the latest advocacy efforts and energy-saving tips.
 - **Support Our Cause**: Consider donating to support our advocacy work and help more small businesses save on their energy bills.
+
+---  
 
 # Contact Us
 
